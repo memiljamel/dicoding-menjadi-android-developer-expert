@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="poster">https://image.tmdb.org/t/p/original/%s</string>
+    <string name="title">Movie Title</string>
+    <string name="overview">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam a justo mollis, facilisis arcu ac, tincidunt ante. Praesent sodales purus nec interdum eleifend. Ut vel dignissim arcu. Cras ornare imperdiet dolor, sed lobortis lectus finibus sit amet. Maecenas egestas turpis in leo congue, quis accumsan urna fermentum. Vestibulum gravida quis leo eu finibus. Donec vitae tempor dolor.</string>
+</resources>
