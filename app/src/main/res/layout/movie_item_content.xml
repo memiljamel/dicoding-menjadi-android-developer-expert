@@ -37,7 +37,8 @@
             android:textColor="@color/white"
             android:textSize="16sp"
             android:textStyle="bold"
-            app:drawableStartCompat="@drawable/ic_baseline_star_24" />
+            app:drawableStartCompat="@drawable/ic_baseline_star_24"
+            tools:ignore="UnusedAttribute" />
 
     </FrameLayout>
 
@@ -90,7 +91,7 @@
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_marginTop="16dp"
-        android:text="Overview"
+        android:text="@string/label_overview"
         android:textColor="#000000"
         android:textSize="16sp"
         android:textStyle="bold"

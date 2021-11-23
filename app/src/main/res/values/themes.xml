@@ -14,8 +14,4 @@
         <!-- Customize your theme here. -->
     </style>
 
-    <style name="CircleImageView" parent="ShapeAppearance.MaterialComponents.MediumComponent">
-        <item name="cornerFamily">rounded</item>
-        <item name="cornerSize">50%</item>
-    </style>
 </resources>
